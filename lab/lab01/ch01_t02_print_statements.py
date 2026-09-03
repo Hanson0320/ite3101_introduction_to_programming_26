@@ -1,1 +1,2 @@
-print("Water—there is not a drop of water there! Were Niagara but a cataract of sand, would you travel your thousand miles to see it?")
+print "Hello World!" #Python2
+print("Deep into distant woodlands winds a mazy way, reaching to overlapping spurs of mountains bathed in their hill-side blue.") #Python3
