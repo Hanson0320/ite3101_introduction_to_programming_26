@@ -4,4 +4,4 @@ whole_cucumbers_per_person = cucumbers // num_people
 Print (whole_cucumbers_per_person)
 
 float_cucumbers_per_person =cucumbers / num_people
-Print (
+Print (float_cucumbers_per_person)
