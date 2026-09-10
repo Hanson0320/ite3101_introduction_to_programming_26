@@ -1,2 +1,2 @@
 print("Mismatched quotes will cause a SyntaxError')
-      print(
+      print( EOL while scanning a string literal)
