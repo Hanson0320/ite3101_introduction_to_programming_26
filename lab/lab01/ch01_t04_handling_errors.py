@@ -1,1 +1,1 @@
-print(" EOL while scanning a string literal')
+print("Mismatched quotes will cause a SyntaxError')
