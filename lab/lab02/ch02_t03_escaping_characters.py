@@ -1,1 +1,1 @@
-temp_globals = ""
+temp_globals = "execfile"
