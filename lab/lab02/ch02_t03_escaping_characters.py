@@ -1,2 +1,2 @@
 temp_globals = "execfile"
-temp_locals = ""
+temp_locals = "execfile"
