@@ -1,1 +1,1 @@
-def distance_from_zero("yes")
+def distance_from_zero(d: Any))
