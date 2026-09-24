@@ -8,7 +8,7 @@ def black_knight() -> bool:
         return  # Make sure this returns False
 
 
-def french_soldier() -> bool:
+def french_soldier() -> str:
     if answer == "Go away, or I shall taunt you a second time!":
         return True
     else:
