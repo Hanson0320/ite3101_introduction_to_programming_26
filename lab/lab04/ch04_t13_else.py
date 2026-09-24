@@ -1,7 +1,7 @@
 answer = "'Tis but a scratch!"
 
 
-def black_knight() -> bool:
+def black_knight() -> str:
     if answer == "'Tis but a scratch!":
         return True
     else:
