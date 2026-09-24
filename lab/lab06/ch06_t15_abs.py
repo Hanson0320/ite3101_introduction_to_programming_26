@@ -1,3 +1,3 @@
-absolute = ads(-42)
+absolute = abs(-42)
 
 print(absolute)
