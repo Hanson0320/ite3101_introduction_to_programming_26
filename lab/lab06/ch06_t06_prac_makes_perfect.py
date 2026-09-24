@@ -1,1 +1,1 @@
-def cu
+def cube
