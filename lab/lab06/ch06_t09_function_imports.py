@@ -1,6 +1,6 @@
 # Import *just* the sqrt function from math on line 3!
 
-from math import sqrt
+import math
 
 
-print(sprt(25))
+print(math.sqrt(25))
