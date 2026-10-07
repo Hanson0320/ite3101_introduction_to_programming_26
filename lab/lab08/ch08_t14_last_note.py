@@ -13,4 +13,4 @@ inventory['pouch'].sort()
 
 # Your code here
 inventory['seashell', 'strange berry', 'lint']
-inventory[]
+inventory['backpack']
