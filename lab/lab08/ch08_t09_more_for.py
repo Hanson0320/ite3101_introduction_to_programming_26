@@ -7,5 +7,4 @@ for number in square_list:
 
 square_list.sort()
 
-
 print(square_list)
