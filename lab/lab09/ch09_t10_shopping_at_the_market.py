@@ -1,1 +1,1 @@
-= ["banana", "orange", "apple"]
+gr= ["banana", "orange", "apple"]
