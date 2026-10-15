@@ -3,4 +3,4 @@
 from ast import List
 
 
-def fizz_count(x:List)->int:
+def fizz_count(x:List[str])->int:
