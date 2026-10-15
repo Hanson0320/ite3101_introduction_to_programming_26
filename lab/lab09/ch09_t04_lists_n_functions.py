@@ -1,6 +1,6 @@
 # Write your function below!
 
-from ast import List
+from t import List
 
 
 def fizz_count(words:List[str])->int:
