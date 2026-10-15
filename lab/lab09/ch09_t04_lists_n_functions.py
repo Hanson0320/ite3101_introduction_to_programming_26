@@ -4,4 +4,6 @@ from ast import List
 
 
 def fizz_count(x:List[str])->int:
-    coun
+    count = 0
+    for word in words:
+        if word == "fizz"
