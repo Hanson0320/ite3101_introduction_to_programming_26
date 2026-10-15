@@ -11,10 +11,6 @@ stock = {
     "pear": 15,
 }
 
-total = 0
-for key in prices:
-    print("price: %s" % prices[key])
-    print("stock: %s" % stock[key])
 
 for key in prices:
     print(key)
