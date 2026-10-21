@@ -2,7 +2,7 @@ count = 0
 
 while count < 10:  # Add a colon
     print(count)
+    count += 1
+        if count >= 10:
+            break
     # Increment count
-count += 1
-    if count >= 10:
-        break
