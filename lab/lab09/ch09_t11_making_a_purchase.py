@@ -15,7 +15,4 @@ prices = {
 }
 
 # Write your code below!
-def compute_bill(food: List[str])-> float:
-    total = 0
-    for item in food:
-        total += prices[item]
+def compute_bill(food:st)
