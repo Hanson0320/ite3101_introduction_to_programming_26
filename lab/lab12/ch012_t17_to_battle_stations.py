@@ -19,6 +19,8 @@ def random_col(board_in: List[List[str]]) -> int:
 ship_row = random_row(board)
 ship_col = random_col(board)
 
+# 已移除 debug 的 print(ship_row) 和 print(ship_col)
+
 for turn in range(4):
     print("Turn", turn + 1)
     guess_row = int(input("Guess Row: "))
@@ -37,4 +39,5 @@ for turn in range(4):
             board[guess_row][guess_col] = "X"
         if turn == 3:
             print("Game Over")
-        print_board(board)
+        else:
+            print_board(board)
