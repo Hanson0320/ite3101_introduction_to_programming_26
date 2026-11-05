@@ -16,4 +16,7 @@ tyler = {
     "quizzes": [0.0, 75.0, 78.0],
     "tests": [100.0, 100.0]
 }
-students = [lloyd, alice, tyler]
+
+def average(numbers):
+    total = sum(numbers)
+    return total / len(numbers)
