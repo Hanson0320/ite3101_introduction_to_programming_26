@@ -28,7 +28,7 @@ tyler = {
     "tests": [100.0, 100.0]
 }
 
-students = [lloyd, alice, tyler]
+students = [alice, lloyd, tyler]
 
 
 def average(numbers: List[float]) -> float:
