@@ -17,6 +17,10 @@ tyler = {
     "tests": [100.0, 100.0]
 }
 
-def average(numbers):
-    total = sum(numbers)
-    return total / len(numbers)
+students = [lloyd, alice, tyler]
+
+for student in students:
+    print(student["name"])
+    print(student["homework"])
+    print(student["quizzes"])
+    print(student["tests"])
