@@ -19,7 +19,6 @@ def random_col(board_in: List[List[str]]) -> int:
 ship_row = random_row(board)
 ship_col = random_col(board)
 
-# 這題不再印出船的位置
 for turn in range(4):
     print("Turn", turn + 1)
     guess_row = int(input("Guess Row: "))
